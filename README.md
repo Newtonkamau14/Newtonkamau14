@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning AWS Cloud Essentials.<br>👨🏽‍💻 I’m currently working on cool apps using Svelte and Typescript<br>💬 Ask me about anything, I am happy to help;<br>📝 <a href="https://drive.google.com/file/d/1dZj1IFRImN2b6dKjKOnoK3ivtteVlV99/view?usp=sharing">Resume<a/></p>
+<p align="left">📚 I'm currently learning AWS Cloud Essentials.<br>👨🏽‍💻 I’m currently working on cool apps using React and Typescript<br>💬 Ask me about anything, I am happy to help;<br>📝 <a href="https://drive.google.com/file/d/1dZj1IFRImN2b6dKjKOnoK3ivtteVlV99/view?usp=sharing">Resume<a/></p>
 
 ###
 
