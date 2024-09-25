@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Svelte.<br>👨🏽‍💻 I’m currently working on cool apps using Svelte and Typescript<br>💬 Ask me about anything, I am happy to help;<br>📝 <a href="https://drive.google.com/file/d/1dZj1IFRImN2b6dKjKOnoK3ivtteVlV99/view?usp=sharing">Resume<a/></p>
+<p align="left">📚 I'm currently learning AWS Cloud Essentials.<br>👨🏽‍💻 I’m currently working on cool apps using Svelte and Typescript<br>💬 Ask me about anything, I am happy to help;<br>📝 <a href="https://drive.google.com/file/d/1dZj1IFRImN2b6dKjKOnoK3ivtteVlV99/view?usp=sharing">Resume<a/></p>
 
 ###
 
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
